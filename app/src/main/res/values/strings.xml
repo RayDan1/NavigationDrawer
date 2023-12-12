@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="navDraAb">Navigation Drawer Abierto</string>
+    <string name="navDraCe">Navigation Drawer Cerrado</string>
+</resources>
